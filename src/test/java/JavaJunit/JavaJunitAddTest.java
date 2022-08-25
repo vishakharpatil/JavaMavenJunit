@@ -8,7 +8,7 @@ public class JavaJunitAddTest {
 
 	@Test
 	public void testAdd() {
-		fail("Not yet implemented");
+		JavaJunitAdd a = new JavaJunitAdd();
 	}
 
 }
